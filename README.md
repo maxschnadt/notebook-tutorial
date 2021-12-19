@@ -2,7 +2,7 @@
 
 This repository contains a bunch of Jupyter notebook tutorials i created. They will mostly be about scientific computing and machine learning, so be prepared for some computational load on your pc if you go through them and execute them.
 
-The tutorials are alle currently in german, but at some point in the future will be translated into english. Enjoy!
+The tutorials are alle currently in german, but at some point in the future will be translated into english. Enjoy!  
  
  
  
